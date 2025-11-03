@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ParallelProcessing
+﻿namespace ParallelProcessing
 {
     public class Widget
     {

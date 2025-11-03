@@ -1,10 +1,4 @@
-﻿using System;
-using Xunit;
-using ParallelProcessing;
-using System.Linq;
-using System.Collections.Concurrent;
-using System.Collections.Generic;
-using System.Threading.Tasks;
+﻿using System.Collections.Concurrent;
 
 namespace ParallelProcessing.Tests
 {
