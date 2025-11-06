@@ -41,7 +41,7 @@ namespace ParallelProcessing
 
             ParallelOptions parallelOptions = new ParallelOptions() { MaxDegreeOfParallelism = Environment.ProcessorCount };
             Widget val, postVat, parval, parpostVat, parOptionsval, parpostOptionsVat, postSingleVat, postForeachVat, postForeachAsyncVat, postOptionsSingleVat, postOptionsForeachVat, parpostOptionsAsyncVat;
-            string key = "X00" + (size - 1).ToString(); // "X0000000067";
+            string key = "X0000000067";
             Double rate = 0.2;
             DateTime StartTime, FinishTime;
             StartTime = DateTime.Now;
